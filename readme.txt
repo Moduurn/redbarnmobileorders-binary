@@ -1,5 +1,5 @@
 
-EXE file to pull daily Moduurn mobile orders for registered Redbarn stores. If optional arguments are not passed it will get the data for current day.
+EXE file to pull daily Moduurn mobile orders for registered Redbarn stores. If optional arguments are not passed it will get the data for current day in the current folder.
 
 Usage : moduurnorders --savefolder={destinationfolder} --searchdate={date in YYYY-MM-DD format}. 
 
